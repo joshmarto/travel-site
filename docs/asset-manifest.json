@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4afe432f.css",
+    "main.js": "/static/js/main.27095506.js",
+    "static/media/La-Atitlan.jpg": "/static/media/La-Atitlan.ee77fd14fde05d7c72a0.jpg",
+    "index.html": "/index.html",
+    "main.4afe432f.css.map": "/static/css/main.4afe432f.css.map",
+    "main.27095506.js.map": "/static/js/main.27095506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4afe432f.css",
+    "static/js/main.27095506.js"
+  ]
+}
